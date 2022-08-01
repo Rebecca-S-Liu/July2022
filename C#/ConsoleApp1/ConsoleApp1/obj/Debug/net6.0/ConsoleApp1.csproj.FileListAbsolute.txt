@@ -1,0 +1,15 @@
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+/Users/shiyunliu/Desktop/Antra/July2022/July2022/C#/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
